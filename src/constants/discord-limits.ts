@@ -1,0 +1,13 @@
+export const ACTIVE_THREADS_PER_GUILD = 1000;
+export const CHANNELS_PER_GUILD = 500;
+export const CHOICES_PER_AUTOCOMPLETE = 25;
+export const EMBED_COMBINED_LENGTH = 6000;
+export const EMBED_DESCRIPTION_LENGTH = 4096;
+export const EMBED_FIELD_NAME_LENGTH = 256;
+export const EMBED_FOOTER_LENGTH = 2048;
+export const EMBED_TITLE_LENGTH = 256;
+export const EMBEDS_PER_MESSAGE = 10;
+export const FIELDS_PER_EMBED = 25;
+export const GUILDS_PER_SHARD = 2500;
+export const PINS_PER_CHANNEL = 50;
+export const ROLES_PER_GUILD = 250;
